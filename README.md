@@ -1,3 +1,5 @@
 # hello-world
 Just starting
-Just starting and looking for any advice people can give me.
+
+
+Just starting out coding and looking for any and all tips.
